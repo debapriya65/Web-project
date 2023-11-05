@@ -1,0 +1,73 @@
+.navbar {
+    background-color: #333;
+
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    margin:0;
+    padding:  10px;
+    
+  }
+  .background {
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  .navbar {
+    background-color: #ffffff;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .navbar li {
+    margin: 0;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+  }
+  
+  .profile-card {
+    /* Your existing profile card styles */
+  }
+  
+  
+  .navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  .khali2{
+    width: 30px;
+  }
+  .khali{
+    width: 1250px;
+  }
+  .navbar-item {
+    margin-right: 10px;
+  }
+  
+  .navbar-link {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 20px;
+  }
+  
+  .navbar-link:hover {
+    background-color: #555;
+  }
+  
